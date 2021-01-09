@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jiangyin0750.github.io/post/aplayer/aplayer-use-help/</loc>
+    <loc>https://jiangyin0750.github.io/post/c/c++%20study/</loc>
     
     <lastmod>2021-01-09</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jiangyin0750.github.io/post/c/c++%20study/</loc>
+    <loc>https://jiangyin0750.github.io/post/aplayer/aplayer-use-help/</loc>
     
-    <lastmod>2020-12-29</lastmod>
+    <lastmod>2021-01-09</lastmod>
     
   </url>
   
@@ -74,20 +74,6 @@
 
   
   <url>
-    <loc>https://jiangyin0750.github.io/tags/aplayer/</loc>
-    <lastmod>2021-01-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyin0750.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2021-01-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jiangyin0750.github.io/tags/markdown/</loc>
     <lastmod>2021-01-09</lastmod>
     <changefreq>daily</changefreq>
@@ -96,6 +82,20 @@
   
   <url>
     <loc>https://jiangyin0750.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2021-01-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyin0750.github.io/tags/aplayer/</loc>
+    <lastmod>2021-01-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyin0750.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2021-01-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -111,14 +111,14 @@
 
   
   <url>
-    <loc>https://jiangyin0750.github.io/categories/aplayer/</loc>
+    <loc>https://jiangyin0750.github.io/categories/markdown/</loc>
     <lastmod>2021-01-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://jiangyin0750.github.io/categories/markdown/</loc>
+    <loc>https://jiangyin0750.github.io/categories/aplayer/</loc>
     <lastmod>2021-01-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
