@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>DOS基本命令综合</title>
-      <link href="post/windows/win-dos-kownledge/"/>
-      <url>post/windows/win-dos-kownledge/</url>
+      <title>Opencv + C++学习笔记</title>
+      <link href="post/%E5%9B%BE%E5%BD%A2/opencv/"/>
+      <url>post/%E5%9B%BE%E5%BD%A2/opencv/</url>
       
-        <content type="html"><![CDATA[<h1 id="占版未更新"><a href="#占版未更新" class="headerlink" title="占版未更新"></a>占版未更新</h1>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> windows </category>
+          <category> 图形 </category>
           
       </categories>
       
@@ -22,9 +22,7 @@
             
             <tag> 笔记 </tag>
             
-            <tag> windows </tag>
-            
-            <tag> dos </tag>
+            <tag> Opencv </tag>
             
         </tags>
       
