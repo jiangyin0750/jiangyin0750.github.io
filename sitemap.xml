@@ -116,13 +116,6 @@
   </url>
   
   <url>
-    <loc>https://jiangyin0750.github.io/tags/Opencv/</loc>
-    <lastmod>2021-03-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jiangyin0750.github.io/tags/aplayer/</loc>
     <lastmod>2021-03-21</lastmod>
     <changefreq>daily</changefreq>
@@ -131,6 +124,13 @@
   
   <url>
     <loc>https://jiangyin0750.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2021-03-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyin0750.github.io/tags/Opencv/</loc>
     <lastmod>2021-03-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -153,14 +153,14 @@
   </url>
   
   <url>
-    <loc>https://jiangyin0750.github.io/categories/%E5%9B%BE%E5%BD%A2/</loc>
+    <loc>https://jiangyin0750.github.io/categories/aplayer/</loc>
     <lastmod>2021-03-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://jiangyin0750.github.io/categories/aplayer/</loc>
+    <loc>https://jiangyin0750.github.io/categories/%E5%9B%BE%E5%BD%A2/</loc>
     <lastmod>2021-03-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
