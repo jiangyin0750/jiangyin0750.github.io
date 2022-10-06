@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jiangyin0750.github.io/test/index.html</loc>
+    
+    <lastmod>2022-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jiangyin0750.github.io/test/2.html</loc>
+    
+    <lastmod>2022-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jiangyin0750.github.io/test/js/package-lock.json</loc>
+    
+    <lastmod>2022-10-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jiangyin0750.github.io/about/index.html</loc>
     
     <lastmod>2022-09-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jiangyin0750.github.io/test/1.html</loc>
+    
+    <lastmod>2022-04-25</lastmod>
     
   </url>
   
@@ -81,7 +109,7 @@
 
   <url>
     <loc>https://jiangyin0750.github.io/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -89,28 +117,28 @@
   
   <url>
     <loc>https://jiangyin0750.github.io/tags/markdown/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jiangyin0750.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jiangyin0750.github.io/tags/aplayer/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jiangyin0750.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -119,14 +147,14 @@
   
   <url>
     <loc>https://jiangyin0750.github.io/categories/markdown/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jiangyin0750.github.io/categories/aplayer/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
